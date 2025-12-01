@@ -1,0 +1,8 @@
+flask
+torch
+torchvision
+timm
+transformers
+pillow
+requests
+numpy
