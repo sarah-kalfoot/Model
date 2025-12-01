@@ -6,3 +6,4 @@ transformers
 pillow
 requests
 numpy
+gunicorn
