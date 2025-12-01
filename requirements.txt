@@ -1,9 +1,9 @@
 flask
-torch
-torchvision
-timm
 transformers
+timm
+torch
 pillow
-requests
 numpy
 gunicorn
+requests
+python-dotenv
